@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jielim36&label=Profile%20views&color=0e75b6&style=flat" alt="jielim36" /> </p>
 
-- 🌱 I’m currently learning **React and SpringSecurity**
+- 🌱 I’m currently learning **C++ and Android Studio**
 
 - 📫 How to reach me **jielim00@gmail.com**
 
