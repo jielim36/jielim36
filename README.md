@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lim Yee Jie</h1>
 <h3 align="center">A passionate backend developer from Malaysia</h3>
-<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="coding" width="200" height="200" />
+<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="coding" width="200" height="200" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jielim36&label=Profile%20views&color=0e75b6&style=flat" alt="jielim36" /> </p>
 
