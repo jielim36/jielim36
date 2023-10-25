@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lim Yee Jie</h1>
-<h3 align="center">I am a Software Engineer from Malaysia.</h3>
+<h3 align="center">I am a Software Engineer from Malaysia</h3>
 <p align="center">
   <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="coding" width="200" height="200" />
 </p>
