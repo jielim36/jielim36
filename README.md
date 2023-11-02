@@ -36,4 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jielim36&show_icons=true&locale=en" alt="jielim36" /></p>
 
-[![Jielim36 Medium](https://github-readme-medium.vercel.app/?username=jielim36&limit=3&bg=222f2e&text=ff0000)](https://medium.com/@jielim36)
