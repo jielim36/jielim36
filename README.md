@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jielim36&label=Profile%20views&color=0e75b6&style=flat" alt="jielim36" /> </p>
 
-- 🌱 I’m currently learning **C++ and Android Studio**
+- 🌱 I’m currently learning **Typescript and Express**
 
 - 📫 How to reach me: [**Linkedin (Recommended)**](https://linkedin.com/in/lim-yee-jie-589058263) or **jielim00@gmail.com**
 
