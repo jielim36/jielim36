@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jielim36&label=Profile%20views&color=0e75b6&style=flat" alt="jielim36" /> </p>
 
-- 📫 How to reach me: [**Linkedin (Recommended)**](https://linkedin.com/in/lim-yee-jie-589058263) or **jielim00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +13,7 @@
 <a href="https://www.instagram.com/jielim0723/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jielim36" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jielim36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jielim36" height="30" width="40" /></a>
 </p>
+- 📫 How to reach me: [**Linkedin (Recommended)**](https://linkedin.com/in/lim-yee-jie-589058263) or **jielim00@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
